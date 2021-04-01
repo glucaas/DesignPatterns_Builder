@@ -1,0 +1,16 @@
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_Builder\obj\Debug\net5.0\DesignPatterns_Builder.csprojAssemblyReference.cache
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_Builder\obj\Debug\net5.0\DesignPatterns_Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_Builder\obj\Debug\net5.0\DesignPatterns_Builder.AssemblyInfoInputs.cache
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_Builder\obj\Debug\net5.0\DesignPatterns_Builder.AssemblyInfo.cs
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_Builder\obj\Debug\net5.0\DesignPatterns_Builder.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_Builder\bin\Debug\net5.0\DesignPatterns_Builder.exe
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_Builder\bin\Debug\net5.0\DesignPatterns_Builder.deps.json
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_Builder\bin\Debug\net5.0\DesignPatterns_Builder.runtimeconfig.json
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_Builder\bin\Debug\net5.0\DesignPatterns_Builder.runtimeconfig.dev.json
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_Builder\bin\Debug\net5.0\DesignPatterns_Builder.dll
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_Builder\bin\Debug\net5.0\ref\DesignPatterns_Builder.dll
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_Builder\bin\Debug\net5.0\DesignPatterns_Builder.pdb
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_Builder\obj\Debug\net5.0\DesignPatterns_Builder.dll
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_Builder\obj\Debug\net5.0\ref\DesignPatterns_Builder.dll
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_Builder\obj\Debug\net5.0\DesignPatterns_Builder.pdb
+C:\Users\Pichau\Downloads\Repos\DesignPatterns_Builder\obj\Debug\net5.0\DesignPatterns_Builder.genruntimeconfig.cache
